@@ -1,0 +1,5 @@
+c:\users\shaun\documents\visual studio 2013\Projects\SQLBrute\SQLBrute\bin\Debug\SQLBrute.exe.config
+c:\users\shaun\documents\visual studio 2013\Projects\SQLBrute\SQLBrute\bin\Debug\SQLBrute.exe
+c:\users\shaun\documents\visual studio 2013\Projects\SQLBrute\SQLBrute\bin\Debug\SQLBrute.pdb
+c:\users\shaun\documents\visual studio 2013\Projects\SQLBrute\SQLBrute\obj\Debug\SQLBrute.exe
+c:\users\shaun\documents\visual studio 2013\Projects\SQLBrute\SQLBrute\obj\Debug\SQLBrute.pdb
